@@ -1,9 +1,9 @@
 #!/bin/bash
 
 
-git clone https://github.com/jasonrohrer/minorGems.git	
-git clone https://github.com/jasonrohrer/OneLife.git
-git clone https://github.com/jasonrohrer/OneLifeData7.git	
+git clone https://github.com/Trades82/minorGems.git	
+git clone https://github.com/Trades82/OneLife.git
+git clone https://github.com/Trades82/OneLifeData7.git	
 
 
 
